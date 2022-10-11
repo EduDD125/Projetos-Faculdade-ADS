@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <title>The Game Awards - 2017</title>
+</head>
+
+<body>
+    <header>
+        <h1>The Game Awards - 2017</h1>
+    </header>
+    <nav>
+        <table border="1">
+            <tr>
+                <td><a href="index.html" title="Retornar à Página Principal">Página Principal</a></td>
+                <td><a href="pag_2015.html" title="página sobre The Game Awards - 2005">The Game Awards - 2015</a></td>
+                <td><a href="pag_2016.html" title="página sobre The Game Awards - 2006">The Game Awards - 2016</a></td>
+            </tr>
+        </table>
+    </nav>
+    <main>
+        <article>
+            <header>
+                <h2>Jogos que concorreram ao TGA-2015:</h2>
+            </header>
+            <ul>
+                <li>Horizon Zero Dawn (Guerrilla Games / Sony Interactive Entertainment)</li>
+                <li>Persona 5 (Atlus)</li>
+                <li>PlayerUnknowns Battlegrounds (PUBG Corp.)</li>
+                <li>Super Mario Odyssey (Nintendo EPD / Nintendo)</li>
+                <li>The Legend of Zelda: Breath of the Wild (Nintendo EPD / Nintendo)</li>
+            </ul> 
+        </article>
+        <article>
+            <div class="descrisao_jogo">
+                <header>
+                    <h2>Ganhador: <em>The Legend of Zelda: Breath of the Wild</em></h2>
+                    <h3>Sinopse:</h3>
+                </header>
+                <p>Hyrule com o passar dos séculos tornou-se uma civilização avançada, protegida por quatro <a href="#ferasdivinas">Feras divinas</a> controladas por quatro campeões das raças de hyrule. O mal conhecido como Calamity Ganon que havia sido derrotado pela
+                    princesa Zelda e seu fiel protetor <a href="#Link">Link</a>, surge em uma profecia dos ancestrais, os cidadões de hyrule percebem os sinais da volta de Ganon. Todos se reunem para enfretar essa calamidade, porém Ganon toma controle das feras divinas
+                    e utiliza elas para atacar o reino.No final da batalha Link é ferido seriamente, zelda leva o seu protetor para uma câmara de restauração e realiza uma magia para prender Ganon no castelo.
+                </p>
+                <p>Link acorda 100 anos depois, sem suas memorias e encontra um velho que se revela ser o espito do antigo rei Rhoam que explica brevemente sua situação, sua missão de retomar as feras divinas e resgate de hyrule.
+                </p>
+            </div>
+            <div class="trailer">
+                <h3>Trailer:</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/zw47_q9wbBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="galeria_imagens">
+                <h3>Galeria de imagens de Gameplay:</h3>
+                <img alt="Imagem de batalha" id="Link" src="https://i.ytimg.com/vi/kCHlp1W1GQk/maxresdefault.jpg" height="300" width="475">
+                <p>Batalha com as antigas maquinas da civilização avançada</p>
+                <img alt="puzzles dentro das Feras divinas" id="ferasdivinas" src="https://assets.reedpopcdn.com/zelda-breath-of-the-wild-walkthrough-guide-tips-4857-148905300964.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/zelda-breath-of-the-wild-walkthrough-guide-tips-4857-148905300964.jpg" height="300"
+                    width="475">
+                <p>Resolver os puzzles dentro das Feras divinas</p>
+                <img alt="Batalha com as feras de Hyrule" src="https://i.ytimg.com/vi/L0SdiUrhuZM/maxresdefault.jpg" height="300" width="475">
+                <p>Batalha com as feras de Hyrule</p>
+            </div>
+        </article>
+    </main>
+</body>
+
+</html>
