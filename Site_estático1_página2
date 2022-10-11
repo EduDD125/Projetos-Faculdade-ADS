@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <title>The Game Awards - 2015</title>
+</head>
+
+<body>
+    <header>
+        <h1>The Game Awards - 2015</h1>
+    </header>
+    <nav>
+        <table border="1">
+            <tr>
+                <td><a href="index.html" title="Retornar à Página Principal">Página Principal</a></td>
+                <td><a href="pag_2016.html" title="página sobre The Game Awards - 2006">The Game Awards - 2016</a></td>
+                <td><a href="pag_2017.html" title="página sobre The Game Awards - 2007">The Game Awards - 2017</a></td>
+            </tr>
+        </table>
+    </nav>
+    <main>
+        <article>
+        <header>
+            <h2>Jogos que concorreram ao TGA-2015:</h2>
+        </header>
+            <ul>
+                <li>The Witcher 3: Wild Hunt (CD Projekt Red)</li>
+                <li>Fallout 4 (Bethesda Game Studios/Softworks)</li>
+                <li>Metal Gear Solid V: The Phantom Pain (Kojima Productions/Konami)</li>
+                <li>Super Mario Maker (Nintendo)</li>
+                <li>Bloodborne (FromSoftware/Sony Computer Entertainment)</li>
+            </ul>
+        </article>
+        <article>
+            <div class="descrisao_jogo">
+                <header>
+                    <h2>Ganhador: <em >The Witcher 3: Wild Hunt</em> (CD Projekt Red)</h2>
+                    <h3>Sinopse:</h3>
+                </header>
+                    <p>A saga começa quando Geralt está em busca de Yennefer, uma antiga aliada. Logo ele descobre que nem tudo é o que parece, quando é designado com a tarefa de recuperar Cirila, filha do Imperador, que foi treinada por Geralt para se tornar um tipo de
+                    herdeira de suas missões e <a href="#abilidades">habilidades</a>. O maior problema é que, tanto Geralt quanto Cirila estão sendo perseguidos pela <a href="#wild_hunt">Caçada Selvagem (Wild Hunt)</a>, um tipo de força sombrio que invadiu as terras
+                    do norte.</p>
+                    Texto retirado do <a href="https://www.techtudo.com.br/review/witcher-3-wild-hunt.ghtml">Review techtudo de The Witcher 3: Wild Hunt</a>
+            </div>    
+            <div class="trailer">
+                <header>
+                    <h3>Trailer:</h3>
+                </header>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/c0i88t0Kacs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="galeria_imagens">
+                <header>
+                    <h3>Galeria de imagens de Gameplay:</h3>
+                </header>
+                <img alt="Abilidades do Geralt" id="abilidades" src="https://www.gamereactor.pt/media/67/kolladessalackra_1436764b.jpg" height="300" width="475">
+                <p>Utilizar as abilidades do Geralt</p>
+                <img alt="Explorar o mapa" src="https://i.ytimg.com/vi/xx8kQ4s5hCY/maxresdefault.jpg" height="300" width="475">
+                <p>Explorar o mapa de mundo aberto</p>
+                <img alt="Enfrentar os guerreiros da Caçada Selvagem" id="wild_hunt" src="https://s2.glbimg.com/U9wnpuMqfKAsB4rOwH5eUMggreY=/0x0:695x381/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/j/Y/sxTMBoT7CYAKnhzoL5JA/2015-06-26-nithral-1.jpg"
+                    height="300" width="475">
+                <p>Enfrentar os guerreiros da Caçada Selvagem</p>
+            </div>
+        </article>
+    </main>
+</body>
+
+</html>
