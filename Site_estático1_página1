@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <title>The Game Awards</title>
+</head>
+
+<body>
+    <header>
+        <h1>The Game Awards</h1>
+    </header>
+    <nav>
+        <header>
+            <h2>Menu:</h2>
+        </header>
+        <table border="1">
+            <tr>
+                <td><a href="pag_2015.html" title="página sobre The Game Awards - 2005">The Game Awards - 2015</a></td>
+                <td><a href="pag_2016.html" title="página sobre The Game Awards - 2006">The Game Awards - 2016</a></td>
+                <td><a href="pag_2017.html" title="página sobre The Game Awards - 2007">The Game Awards - 2017</a></td>
+            </tr>
+        </table>
+    </nav>
+
+    <main>
+        <article>
+            <header>
+                <h2>O que é o <em>The Game Awards</em></h2>
+            </header>
+            <p>O <em>The Game Awards</em> (TGA), é uma competição entre os jogos que ganharam mais destaque no ano em diversas categorias. Uma das premiações mais importantes do evento é o título de "Jogo do Ano", dado ao game mais relevante do período.
+                Os indicados são selecionados por um júri composto por jornalistas de diversos veículos especializados em games ao redor do mundo. O vencedor é eleito através de uma votação com o público onde qualquer pessoal pode votar, por meio do site oficial do <abbr title=“The Game Awars”>TGA</abbr>. A cerimônia acontece desde
+                2014 e os ganhadores do título "Jogo do Ano" foram <em>God of War</em>, <em><a href="#zelda">The Legend of Zelda: Breath of the Wild</a></em>, <em><a href="#overwatch">Overwatch</a></em>, <em><a href="#the_witcher">The Witcher 3: Wild Hunt</a></em> e Dragon Age: Inquisition.
+                Além dos prêmios, o <em>The Game Awards</em> também informa sobre novos jogos e projetos.</p>
+            <img src="https://i.ytimg.com/vi/YT8nDI8bxNA/maxresdefault.jpg" alt="TGA2018" height="300" width="400">
+            <p>Imagem do The Game Awards 2018</p>
+        </article>
+        <article>
+            <header>
+                <h2> História / Origem da premiação</h2>
+            </header>
+                <p>Desde que começou em 2003, o <em>Spike Video Game Awards</em> ganhou muita atenção. Esta premiação anual foi apresentada pelo canal Spike TV, que premiou os melhores jogos de videogames e computador do ano.
+                    Os jogos não eram tão difundidos na sociedade como são hoje em dia, consolidando-se como o evento mais importante de premiações no ramo até seu fim, como o "Oscar" dos videogames. Geoff Keighley, um de seus produtores, recriou o VGAs e o nomeou como The game Awars
+                e desde então ele vem apresentando essa premiação que é sempre uma das mais aguardadas do ano pelos gamers.</p>
+                <img src="https://jovemnerd.com.br/wp-content/uploads/ads_vga.jpg" alt="VGAs2012" height="300" width="400">
+                <p>Imagem do Spike Video Game Awards 2012(Apresentado pelo samuel L. Jackson) </p>
+        </article>
+        <article>
+            <header>
+                <h2>Resumo do The Game Awards no período 2015-2017</h2>
+            </header>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Ano</th>
+                        <th>Nome</th>
+                        <th>Classificações do jogo</th>
+                        <th>Informações</th>
+                        <th>Sinopse e trailer</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>2015</td>
+                        <td id="the_witcher">The Witcher 3: Wild Hunt</td>
+                        <td>As tags do jogo são:
+                            <ul>
+                                <li>Mundo Aberto</li>
+                                <li>RPG - Role playing game</li>
+                                <li>Aventura</li>
+                                <li>Medieval</li>
+                                <li>Vários Finais</li>
+                            </ul>
+                        </td>
+                        <td>
+                            <ol type="a">
+                                <li>Um jogo que pode ser completado em 25 horas, porém se quiser explorar todo o potencial do jogo seriam necessárias 200 horas de jogo.</li>
+                                <li>Esse jogo possibilita que o personagem seja aprimorado, melhorando skills, armas e armaduras. </li>
+                            </ol>
+                        </td>
+                        <td>
+                            <a href="pag_2015.html" title="página sobre The Game Awards - 2015">The Witcher 3: Wild Hunt</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2016</td>
+                        <td id="overwatch">Overwatch</td>
+                        <td>As tags do jogo são:
+                            <ul>
+                                <li>FPS-First person shooter</li>
+                                <li>Multijogador</li>
+                                <li>Cross-play(Multiplataformas)</li>
+                                <li>Competitivo</li>
+                                <li>Vários personagens</li>
+                            </ul>
+                        </td>
+                        <td>
+                            <ol type="I">
+                                <li>Overwatch disputou o primeiro lugar com uncharted 4 e se tornou um dos vencedores do GOTY em 2016.</li>
+                                <li>Um jogo competitivo de FPS, que ganhou notoriedade e realizou torneios de e-sport.</li>
+                            </ol>
+                        </td>
+                        <td>
+                            <a href="pag_2016.html" title="página sobre The Game Awards - 2006">Overwatch</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2017</td>
+                        <td id="zelda">The Legend of Zelda: Breath of the Wild</td>
+                        <td>As tags do jogo são:
+                            <ul>
+                                <li>Ação e Aventura</li>
+                                <li>Single player</li>
+                                <li>RPG - Role playing game</li>
+                                <li>Mundo aberto</li>
+                                <li>Gerenciamento de inventário</li>
+                            </ul>
+                        </td>
+                        <td>
+                            <ol>
+                                <li>Jogabilidade viciante e cenários surpreendentes.</li>
+                                <li>Zelda é um clássico da Nintendo e sua mais nova sequência da série ganhou o TGA de 2017 pela ótima qualidade.</li>
+                            </ol>
+                        </td>
+                        <td>
+                            <a href="pag_2017.html" title="página sobre The Game Awards - 2007">he Legend of Zelda: Breath of the Wild</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </article>
+    </main>
+</body>
+
+</html>
